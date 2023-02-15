@@ -14,7 +14,7 @@ Foi desenvolvido com o intuito de funcionar perfeitamente com a maioria das vers
 E este repositório ira ajudar no desenvolvimento de sistemas remoção de bugs e configurações.
 
 ## Como baixar a versão correta
-Utilizando a ferramenta de branch, você pode localizar a branch com o nome refente a versão da tfs compativel.
+Utilizando a ferramenta de [branch](https://github.com/TheTibiaking/gesior-tibiaking/branches), você pode localizar a branch com o nome refente a versão da tfs compativel.
 
 ... WIKI
 
