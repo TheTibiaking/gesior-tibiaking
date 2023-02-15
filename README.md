@@ -5,7 +5,8 @@
 
 ## Esse site foi desenvolvido pelo [Gesior](https://github.com/gesior/Gesior2012) e editado pela comunidade.
 ### Esta fork se baseia nesta [rev](https://github.com/gesior/Gesior2012/tree/0246a7d6c39356fd67ec6da39d716818229bd25a)
-
+### Lembre-se
+A master sempre conterá a versão mais atualizada do gesior relativo a versão da tfs.
 
 Site muito seguro utilizado pela maioria dos otservers.
 
