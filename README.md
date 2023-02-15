@@ -12,7 +12,7 @@ Site muito seguro utilizado pela maioria dos otservers.
 
 Foi desenvolvido com o intuito de funcionar perfeitamente com a maioria das versões da [TFS](https://github.com/tibiaking/forgottenserver)
 
-E este repositório ira ajudar no desenvolvimento de sistemas remoção de bugs e configurações.
+E este repositório ira ajudar no desenvolvimento de sistemas, remoção de bugs e configurações.
 
 ## Como baixar a versão correta
 Utilizando a ferramenta de [branch](https://github.com/TheTibiaking/gesior-tibiaking/branches), você pode localizar a branch com o nome refente a versão da tfs compativel.
